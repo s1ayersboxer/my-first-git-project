@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-This is a line from branch A
-=======
-This is a line from branch B
->>>>>>> branch-B
-This line was added using GitHub DesktopLearning pull requests in Git.
+Notes for this project.
+Rebase practice line
+Git cheatsheet
+(whatever else you want)
