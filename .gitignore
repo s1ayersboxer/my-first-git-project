@@ -1,0 +1,17 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+# Temporary files
+*.tmp
+*.bak
+
+# Node / Python / Build folders (future-proofing)
+node_modules/
+_pycache_/
+dist/
+
+# Secret or environment files
+.env
