@@ -3,3 +3,4 @@ This is a line from branch A
 =======
 This is a line from branch B
 >>>>>>> branch-B
+This line was added using GitHub Desktop
